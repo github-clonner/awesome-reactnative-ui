@@ -6,6 +6,8 @@
 - [Trixieapp/react-virgin]()
 - [ayoubdev/react-native-android-kit]()
 - [wix/react-native-ui-lib]()
+- [react-native-training/react-native-elements]()
+- [GeekyAnts/NativeBase]()
 
 # Others
 - [airbnb/lottie-react-native]()
@@ -23,6 +25,7 @@
 - [ivpusic/react-native-image-crop-picker]()
 - [Kureev/react-native-blur]()
 - [crazycodeboy/react-native-splash-screen]()
+- [react-native-component/react-native-smart-splash-screen]()
 - [hectahertz/react-native-typography]()
 - [dancormier/react-native-swipeout]()
 - [halilb/react-native-textinput-effects]()
@@ -375,4 +378,8 @@
 - [frostney/react-native-image-container]()
 - [NesChaiyapon/react-native-simple-slider]()
 - [henninghall/react-native-date-picker]()
-
+- [wix/react-native-navigation]()
+- [wix/react-native-keyboard-aware-scrollview]()
+- [jacklein/rn-bottom-drawer]()
+- [catalinmiron/react-native-css-gradient]()
+- [xcarpentier/react-native-suggester]()
